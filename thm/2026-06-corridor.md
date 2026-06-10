@@ -85,7 +85,7 @@ echo -n "0" | md5sum
 Navigating to `/cfcd208495d565ef66e7dff9f98764da` in the browser reveals a page that is **NOT linked anywhere in the image map** — yet is still fully accessible — and it displays the flag:
 
 ```
-flag{2477ef02448ad9156661ac40a6b8862e}
+flag{<REDACTED>}
 ```
 
 ---
@@ -127,7 +127,7 @@ The fix would be:
 ## Flag
 
 ```
-flag{2477ef02448ad9156661ac40a6b8862e}
+flag{<REDACTED>}
 ```
 
 ---
