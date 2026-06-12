@@ -1,0 +1,5 @@
+# Visual Studio junk
+.vs/
+*.suo
+*.user
+*.sln.docstates
