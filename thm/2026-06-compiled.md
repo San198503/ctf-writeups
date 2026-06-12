@@ -171,7 +171,7 @@ The fix for the binary author would be to:
 ## Flag / Password
 
 ```
-DoYouEven_init
+DoYouEven_<REDACTED>
 ```
 
 The password is `_init` — a C runtime symbol name. The full input `DoYouEven_init` passes the scanf format check and matches the comparison string.
